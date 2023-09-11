@@ -2,4 +2,4 @@
 # Built by: CaptAwesome4500 and VivaciousV73
 # Coded by: CaptAwesome4500
 # Tested by: FumbieToni, Hananbanan, and Rapunzel104
-# Current Version: 0.1.2
+# Current Version: 1.0.2
